@@ -1,5 +1,12 @@
 # Hi, I'm Smart Ebook Shelf 👋
 
+<p align="center"><img src="banner.svg" alt="Smart Ebook Shelf: free AI prompts, Claude Skills, AI agents and exam prep" width="100%"></p>
+
+<p align="center">
+<img alt="Works with ChatGPT, Claude, Gemini" src="https://img.shields.io/badge/works%20with-ChatGPT%20%7C%20Claude%20%7C%20Gemini-24304a">
+<a href="https://bestbookdotcom.gumroad.com/"><img alt="Smart Ebook Shelf" src="https://img.shields.io/badge/by-Smart%20Ebook%20Shelf-ff8a3d"></a>
+</p>
+
 I make **practical AI guides** for creators, freelancers, teachers and students: copy-paste prompts, ready-to-install Claude Skills, no-code AI agents and exam prep. Made by a software engineer who builds with AI every day.
 
 ## 🎁 Free resources on GitHub
